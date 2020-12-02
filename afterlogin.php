@@ -37,7 +37,7 @@
         <a class="nav-link" href="#contact">CONTACT</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="home.php">REGISTER/LOGIN</a>
+        <a class="nav-link" href="index.php">LOGOUT</a>
       </li>
     </ul>
   </div>
@@ -127,7 +127,7 @@ Delight HR has won accolades and business from existing and new clients for our 
                  <div class="col-md-6 ">
                 <h2>Job Seekers</h2>
                 <p>We would love to help you in finding the right job role. </p>
-                <a href="jobs.html"><button type="button" class="btn btn-primary">JOBS>></button></a>
+                <a href="jobs.php"><button type="button" class="btn btn-primary">JOBS>></button></a>
                  </div>
                  </div>                  
               </div>

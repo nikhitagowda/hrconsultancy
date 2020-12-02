@@ -1,3 +1,6 @@
+<?php
+
+?>
 <html>
 <head>
 <title>JOBS</title>
@@ -20,7 +23,7 @@
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav ml-auto">
         <li class="nav-item">
-        <a class="nav-link" href="afterlogin.html">HOME</a>
+        <a class="nav-link" href="afterlogin.php">HOME</a>
        </li>
       <li class="nav-item">
         <a class="nav-link" href="https://docs.google.com/forms/d/1R3Ru15deCEOs9NAJjixMeydHhO_nUbWCXXr09ahaECw/edit" target="_blank">ALL JOBS</a>
@@ -238,29 +241,7 @@
     <img src="images/jobs/play-store.png">
 </section>
     
-<!---------------footer---------->
-    
-<section id="footer" class="text-center">
-  
-    <a href="#"><img src="images/jobs/twitter-icon.png"></a>
-    <a href="#"><img src="images/jobs/facebook-icon.png"></a>
-    <a href="#"><img src="images/jobs/whatsapp-icon.png"></a>
-    <a href="#"><img src="images/jobs/linkedin-icon.png"></a>
-    <hr>
-</section>
 </body>
 </html>
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+ 

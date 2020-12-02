@@ -19,7 +19,7 @@ if(!isset($_SESSION['username'])){
     <div class="container">
 
     <a class="float-left" href="logout.php"> LOGOUT </a>
-    <a class="float-right" href="afterlogin.html"> EMPLOYERS/JOBSEEKERS </a>
+    <a class="float-right" href="afterlogin.php"> EMPLOYERS/JOBSEEKERS </a>
     
     
     <h1> Welcome <?php echo $_SESSION['username']; ?> </h1>    
